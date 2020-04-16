@@ -2,11 +2,10 @@
 # Title - Scalability of Elasticity Models
 # Purpose - Parallel Computation of Elasticity Models
 # Date - 24/03/2017
-# Author - Mu Sigma
 # Version - v.9
 # =========================================================================================== #
 #setting working directory
-setwd("C:/Users/faraaz.sheriff/Desktop/Walmart/Pricing Platform/Projects/Elasticity Models/Elasticity Models - Codes & Data")
+setwd("")
 
 # Clear the environment and console once before start
 rm(list = setdiff(ls(), c()))
